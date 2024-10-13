@@ -1,6 +1,6 @@
 --AOC
 --[[
-loadstring Version is      loadstring(game:HttpGet('https://raw.githubusercontent.com/AOCHubReal/AOC/main/AOC-Dahood.lua'))()      (Open Source)
+loadstring Version is      loadstring(game:HttpGet('https://raw.githubusercontent.com/AOCScript/AOC/main/Da-hood'))()      (Open Source)
 ]]
 
 
